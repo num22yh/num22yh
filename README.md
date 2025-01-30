@@ -13,5 +13,5 @@
 
 ---
 ### 📫 Get in Touch
-- Portfolio: 
+
 - Email: [num22yh@naver.com](mailto:num22yh@naver.com)
